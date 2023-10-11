@@ -1,0 +1,26 @@
+.cardList {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.home-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Header styles */
+h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Select dropdown styles */
+select {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
